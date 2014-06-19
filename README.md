@@ -1,10 +1,9 @@
 landing-page
 ============
-[![Build Status](https://drone.io/github.com/linguagil/landing-page/status.png)](https://drone.io/github.com/linguagil/landing-page/latest)
-[![Build Status](https://travis-ci.org/linguagil/landing-page.png)](https://travis-ci.org/linguagil/landing-page)
+[![Build Status](https://drone.io/github.com/linguagil/2014.linguagil.com.br/status.png)](https://drone.io/github.com/linguagil/2014.linguagil.com.br/latest)
 
 
-Landing Page do LinguÁgil.
+WebSite da edição 2014 do evento LinguÁgil.
 
 ## Setup
 
